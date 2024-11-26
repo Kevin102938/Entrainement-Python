@@ -14,3 +14,4 @@ except FileNotFoundError:
     print(f"Le fichier {fichier_path} n'existe pas.")
 except Exception as e:
     print(f"Une erreur est survenue : {e}")
+
